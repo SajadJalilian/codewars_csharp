@@ -2,6 +2,6 @@
 
 Console.WriteLine("Program starting...");
 
-Console.WriteLine(DisemvowelTrolls.Run("This website is for losers LOL!"));
+Console.WriteLine(AreYouPlayingBanjo.Run("Rikke"));
 
 Console.WriteLine("Program ending...");
