@@ -2,9 +2,6 @@
 
 Console.WriteLine("Program starting...");
 
-
-// Console.WriteLine(ReverseWords.Run("Sajad"));
-Console.WriteLine(ReverseWords.Run("This is an example!"));
-
+Console.WriteLine(DisemvowelTrolls.Run("This website is for losers LOL!"));
 
 Console.WriteLine("Program ending...");
